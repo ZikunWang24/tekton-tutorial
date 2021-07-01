@@ -11,5 +11,5 @@ func main() {
 }
 
 func HelloServer(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "xcfsdc")
+	fmt.Fprintf(w, "fsdc")
 }
